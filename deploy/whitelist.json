@@ -1,0 +1,15 @@
+{
+  "_comment": "CipherTrader 라이센스 화이트리스트 (v22.0.0). scripts/license_admin.py 로만 편집할 것 — 직접 수정 금지.",
+  "_format": {
+    "users": [
+      {
+        "license_key": "UUID4 — 형이 발급",
+        "machine_id": "SHA256 — 친구 PC가 첫 실행 시 출력",
+        "name": "식별자 (친구 별명)",
+        "issued_at": "ISO8601 UTC",
+        "note": "비고"
+      }
+    ]
+  },
+  "users": []
+}
