@@ -11,5 +11,13 @@
       }
     ]
   },
-  "users": []
+  "users": [
+    {
+      "license_key": "8c3c5a51-c750-4eb8-9f6a-4534cb33f860",
+      "machine_id": "50da74a55facb16b1dc107fa2c2d2bb8bb8d353d12b38e81540b22e1570df332",
+      "name": "btsky99",
+      "issued_at": "2026-05-02T07:42:55.226330+00:00",
+      "note": "본인 PC (개발+운영)"
+    }
+  ]
 }
