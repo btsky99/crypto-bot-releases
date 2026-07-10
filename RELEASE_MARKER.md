@@ -1,2 +1,2 @@
-last release: v22.6.3-wheel-pywebpush
-utc: 2026-07-10T09:36:58.890045+00:00
+last release: v22.6.3-src106
+utc: 2026-07-10T09:37:48.133379+00:00
