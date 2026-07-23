@@ -1,2 +1,2 @@
-last release: v22.8.0-src264
-utc: 2026-07-23T15:09:23.885417+00:00
+last release: v22.8.0-wheel-asyncpg
+utc: 2026-07-23T15:16:35.627468+00:00
