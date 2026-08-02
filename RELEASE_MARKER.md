@@ -1,2 +1,2 @@
-last release: v22.8.12-src352
-utc: 2026-08-02T03:56:08.582327+00:00
+last release: v22.8.12-wheel-pywinpty
+utc: 2026-08-02T03:57:06.891554+00:00
