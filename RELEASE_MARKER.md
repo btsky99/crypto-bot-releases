@@ -1,2 +1,2 @@
-last release: v22.8.20-src560
-utc: 2026-11-21T23:50:22.095675+00:00
+last release: v22.8.20-bin-cryptolive
+utc: 2026-11-22T01:20:16.740698+00:00
