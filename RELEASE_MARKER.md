@@ -1,2 +1,2 @@
-last release: v22.8.20-bin-sidepanel15878
-utc: 2026-11-25T06:59:58.295958+00:00
+last release: v22.8.20-src563
+utc: 2026-11-25T07:00:38.776188+00:00
